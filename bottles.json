@@ -1,1 +1,58 @@
 
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "capacity": "1L",
+    "material": "Plastic",
+    "price": 1.5,
+    "weight": 30,
+    "lifespan": "Single-use",
+    "suitableFor": "Cold drinks only",
+    "image": "https://images.pepsico.com/images/aquafina-water-bottle-1L.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Evian",
+    "capacity": "750ml",
+    "material": "Glass",
+    "price": 2.8,
+    "weight": 500,
+    "lifespan": "1 year",
+    "suitableFor": "Cold drinks only",
+    "image": "https://cdn.evian.com/media/catalog/product/e/v/evian-glass-bottle-750ml.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Nestlé Pure Life",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "price": 1.0,
+    "weight": 25,
+    "lifespan": "Single-use",
+    "suitableFor": "Cold drinks only",
+    "image": "https://www.nestlepurelife.com/sites/default/files/2021-04/500ml_water_bottle.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Fiji",
+    "capacity": "1.5L",
+    "material": "Plastic",
+    "price": 3.5,
+    "weight": 40,
+    "lifespan": "Single-use",
+    "suitableFor": "Cold drinks only",
+    "image": "https://www.fijiwater.com/cdn/shop/products/FW_1.5L_Front_1024x1024.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "S'well",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "price": 25.0,
+    "weight": 350,
+    "lifespan": "5 years",
+    "suitableFor": "Hot and cold drinks",
+    "image": "https://www.swell.com/cdn/shop/products/swell-stainless-steel-bottle-500ml.jpg"
+  }
+]
